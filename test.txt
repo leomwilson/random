@@ -4,8 +4,5 @@ I am designed to create conflict.
 I am a member of conflict2.
 Fight me, m8.
 Testing logs.
-<<<<<<< HEAD
 Yeet
-=======
 More stuff.
->>>>>>> a02bd6e16e3bed81cecd08b326a1062780dab8f4
