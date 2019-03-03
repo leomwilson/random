@@ -3,3 +3,4 @@ This is part of conflict1.
 I am designed to create conflict.
 I am a member of conflict2.
 Fight me, m8.
+Testing logs.
